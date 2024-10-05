@@ -1,9 +1,13 @@
-import Test from "./Test";
+import ButtonCP from "./ButtonCP";
+import TextFieldCP from "./TextFieldCP";
+import Test from "./Typography";
 
 function App() {
   return (
     <div>
-      <Test/>
+      <Test />
+      <ButtonCP />
+      <TextFieldCP />
     </div>
   );
 }
