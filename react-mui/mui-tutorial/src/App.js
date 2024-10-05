@@ -1,8 +1,9 @@
+import Test from "./Test";
 
 function App() {
   return (
     <div>
-      Hello
+      <Test/>
     </div>
   );
 }
